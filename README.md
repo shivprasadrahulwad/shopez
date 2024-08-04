@@ -3,6 +3,23 @@
 
 I’m excited to introduce an innovative platform designed to connect farmers directly with consumers, revolutionizing the food supply chain! 🌟
 
+
+![WhatsApp Image 2024-07-14 at 16 33 58_b9df00c9](https://github.com/user-attachments/assets/467d7a62-98e9-468a-b205-f52663bfca7e)
+
+![WhatsApp Image 2024-07-14 at 16 35 41_183578d6](https://github.com/user-attachments/assets/83955ecf-1968-4b8a-a7cf-2b82ae0baf50)
+
+![WhatsApp Image 2024-07-14 at 16 35 42_eba674c8](https://github.com/user-attachments/assets/1900031c-a125-4f94-9b33-8e934ac96ed6)
+
+![WhatsApp Image 2024-07-14 at 16 35 43_9b64b4a2](https://github.com/user-attachments/assets/f62dcf7e-19be-4aab-88e4-057312b0fb86)
+
+![WhatsApp Image 2024-07-14 at 16 35 42_221606de](https://github.com/user-attachments/assets/76e1be3d-71bb-4084-b105-66523c013ab1)
+
+![WhatsApp Image 2024-07-14 at 16 35 43_cae37dd6](https://github.com/user-attachments/assets/aefca40a-38a5-418a-a674-ed8433313ac2)
+
+![WhatsApp Image 2024-07-14 at 16 35 42_a2ccff22](https://github.com/user-attachments/assets/2a086a93-6def-41db-9560-b68be3c760ed)
+
+![WhatsApp Image 2024-07-14 at 16 35 42_9e5f13e7](https://github.com/user-attachments/assets/48f902dc-4903-45a4-aac5-9db3bc59bdfb)
+
 What It Does:
 
 🌾 Direct Farmer-to-User Connection:
