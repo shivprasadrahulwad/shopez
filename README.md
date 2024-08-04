@@ -9,14 +9,12 @@ What It Does:
 
 Eliminates Middlemen: Farmers sell directly to consumers, cutting out intermediaries and reducing costs.
 Cost Efficiency: Engineered to save money for both farmers and consumers.
+
 📊 Real-time Data Management:
-
 Uses MongoDB for instant storage and retrieval of data, ensuring up-to-date information.
-🤖 Machine Learning-powered Recommendations:
 
-Analyzes user preferences to offer personalized product suggestions, enhancing the shopping experience.
+
 📈 High Commitment Rates:
-
 Achieved a 71% commitment rate from farmers and an 84% commitment rate from users.
 Key Features:
 
@@ -34,6 +32,7 @@ This platform streamlines the food supply chain by removing traditional intermed
 
 I’m excited about the potential of this project to enhance the efficiency of food distribution and benefit both farmers and consumers. Feel free to reach out if you want to learn more about this innovative solution!
 # Features
+
 -Direct Farmer-to-User Connection: Eliminates middlemen, allowing farmers to sell their produce directly to consumers.
 -Cost Efficiency: Engineered the platform to provide cost savings for both farmers and consumers.
 -Real-time Data Management: Utilizes MongoDB for real-time storage and retrieval of data.
