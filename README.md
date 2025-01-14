@@ -58,7 +58,7 @@ graph TD
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/farcon.git
+git clone https://github.com/shivprasadrahulwad/farcon.git
 cd farcon
 ```
 
@@ -202,7 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 📞 Contact
 
 - Email: your.email@example.com
-- Project Link: [https://github.com/yourusername/farcon](https://github.com/yourusername/farcon)
+- Project Link: [https://github.com/yourusername/farcon](https://github.com/shivprasadrahulwad/farcon)
 
 ---
 
