@@ -192,20 +192,13 @@ flutter build ios  # for iOS
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## 👥 Team
-
-- Project Manager - [Name]
-- Lead Developer - [Name]
-- UI/UX Designer - [Name]
-- Backend Developer - [Name]
-
 ## 📞 Contact
 
 - Email: your.email@example.com
-- Project Link: [https://github.com/yourusername/farcon](https://github.com/shivprasadrahulwad/farcon)
+- Project Link: [https://github.com/shivprasadrahulwad/farcon](https://github.com/shivprasadrahulwad/farcon)
 
 ---
 
 <div align="center">
-Made with ❤️ by [Your Name/Team]
+Made with ❤️ by Shivprasad Rahulwad
 </div>
