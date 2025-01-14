@@ -1,9 +1,3 @@
-# Farcon
-🚜 Thrilled to Unveil My Latest Project! 🌽
-
-I’m excited to introduce an innovative platform designed to connect farmers directly with consumers, revolutionizing the food supply chain! 🌟
-
-# Result
 # ShopEz 🛍️
 
 A comprehensive inventory management platform designed for D2C businesses, social influencers, and online sellers. ShopEz streamlines the e-commerce experience by providing robust tools for both shop owners and customers.
