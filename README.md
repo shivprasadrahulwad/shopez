@@ -88,5 +88,5 @@ Project Link: [[[https://github.com/shivprasadrahulwad/shopez](https://github.co
 ---
 
 <div align="center">
-Made with ❤️ by [Your Name/Team]
+Made with ❤️ by Shivprasad Rahulwad
 </div>
