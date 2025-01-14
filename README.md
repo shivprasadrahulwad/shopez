@@ -177,7 +177,6 @@ flutter build ios  # for iOS
 
 - 15% Lower prices than market rates
 - 80% Reduction in delivery times
-- Average delivery time: 2 hours
 - User satisfaction rate: 4.8/5
 
 ## 🔜 Roadmap
