@@ -192,8 +192,6 @@ flutter build ios  # for iOS
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 📞 Contact
-
-- Email: your.email@example.com
 - Project Link: [https://github.com/shivprasadrahulwad/farcon](https://github.com/shivprasadrahulwad/farcon)
 
 ---
