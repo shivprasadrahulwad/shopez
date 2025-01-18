@@ -22,7 +22,13 @@ ShopEz empowers businesses to manage their online presence effectively while pro
   - Clothing
   - Shoes
   - And more...
-- and many more 
+- and many more
+
+## Screenshots
+To explore the app's user interface, you can view the sample images provided [here on Google Drive](https://drive.google.com/drive/folders/12K6IJ-e4jf160u6gRkjM4H_GlgoNCBxM?usp=sharing).
+
+
+⚠️ Note: Not all UI images are included directly in this repository due to space constraints. Check the Google Drive link for the complete set of screenshots.
 
 ## Tech Stack
 
