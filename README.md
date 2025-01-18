@@ -1,5 +1,6 @@
-# ShopEz 🛍️
+⚠️ Note: Due to limitations, not all UI images are included here. Please feel free to reach out if you would like to view the complete set of screenshots or require more details.
 
+# ShopEz 🛍️
 A comprehensive inventory management platform designed for D2C businesses, social influencers, and online sellers. ShopEz streamlines the e-commerce experience by providing robust tools for both shop owners and customers.
 
 [![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Flutter%20%7C%20MongoDB%20%7C%20Express.js%20%7C%20Node.js-blue)](#tech-stack)
@@ -10,23 +11,18 @@ ShopEz empowers businesses to manage their online presence effectively while pro
 
 ## Features
 
-### For Customers 👥
-- **Product Discovery**: Browse through a diverse catalog of products
-- **Order Management**: Place and track orders in real-time
-- **User Engagement**: Interact with products through likes and reviews
-- **Secure Payments**: Safe and seamless payment processing
-- **User Profiles**: Personalized shopping experience
-
-### For Admins 💼
 - **Inventory Control**: Real-time inventory management system
 - **Analytics Dashboard**: Comprehensive sales trend analysis
 - **Order Processing**: Efficient order management workflow
+- **Order Management**: Place and track orders in real-time
 - **Promotion Management**: Create and manage special offers
 - **Product Management**: Easy listing of various products including:
+- **Secure Payments**: Safe and seamless payment processing
   - Artifacts
   - Clothing
   - Shoes
   - And more...
+- and many more 
 
 ## Tech Stack
 
